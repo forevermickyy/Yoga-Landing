@@ -16,7 +16,7 @@ export default function About() {
           animate={{ x: 0, opacity: 1 }} 
           transition={{ duration: 2, ease: "easeIn" }} className="w-full flex justify-center items-center lg:w-1/3">
             <img
-              src="./about1.png"
+              src="/Yoga-Landing/about1.png"
               alt="About Image"
               className="w-60 h-auto object-cover"
             />
@@ -92,7 +92,7 @@ export default function About() {
           animate={{ x: 0, opacity: 1 }} 
           transition={{ duration: 3, ease: "easeOut" }} className="w-full lg:w-2/5 flex items-center justify-center">
       <img
-        src="about2.png"
+        src="/Yoga-Landing/about2.png"
         alt="About Section Image"
         className="w-full max-h-[600px] object-cover rounded-lg shadow-lg"
       />

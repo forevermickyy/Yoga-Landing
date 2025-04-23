@@ -22,7 +22,7 @@ export default function Explore() {
           animate={{ y: 0, opacity: 1 }} 
           transition={{ duration: 2, ease: "easeIn" }} className="rounded overflow-hidden w-full mx-auto">
       <img
-        src="/one.jpg"
+        src="/Yoga-Landing/.jpg"
         alt="Card 1"
         className="w-full h-64 lg:h-100 rounded-2xl object-cover mb-5"
       />
@@ -54,7 +54,7 @@ export default function Explore() {
           animate={{ y: 0, opacity: 1 }} 
           transition={{ duration: 2, ease: "easeIn" }} className="rounded overflow-hidden w-full mx-auto">
       <img
-        src="/two.jpg"
+        src="/Yoga-Landing/two.jpg"
         alt="Card 1"
         className="w-full h-64 lg:h-100 rounded-2xl object-cover mb-5"
       />
@@ -86,7 +86,7 @@ export default function Explore() {
           animate={{ y: 0, opacity: 1 }} 
           transition={{ duration: 2, ease: "easeIn" }} className="rounded overflow-hidden w-full mx-auto">
       <img
-        src="/three.jpg"
+        src="/Yoga-Landing/three.jpg"
         alt="Card 1"
         className="w-full h-64 lg:h-100 rounded-2xl object-cover mb-5"
       />
@@ -118,7 +118,7 @@ export default function Explore() {
           animate={{ y: 0, opacity: 1 }} 
           transition={{ duration: 2, ease: "easeIn" }} className="rounded overflow-hidden w-full mx-auto">
       <img
-        src="/four.jpg"
+        src="/Yoga-Landing/four.jpg"
         alt="Card 1"
         className="w-full h-64 lg:h-100 rounded-2xl object-cover mb-5"
       />

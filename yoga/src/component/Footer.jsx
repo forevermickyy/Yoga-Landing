@@ -20,7 +20,7 @@ import {
         <a href="#" className="text-xl hover:text-[#7C7062]"><FaLinkedinIn /></a>
       </div>
       <img
-        src="/logo.png"
+        src="/Yoga-Landing/logo.png"
         alt="Logo"
         className="mx-auto h-20"
       />

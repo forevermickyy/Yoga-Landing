@@ -26,7 +26,7 @@ export default function Example() {
               <span className="sr-only">Yoga Era</span>
               <img
                 alt=""
-                src="/logo.png"
+                src="/Yoga-Landing/logo.png"
                 className="h-15 w-full"
               />
             </a>
@@ -62,7 +62,7 @@ export default function Example() {
                 <span className="sr-only">Your Company</span>
                 <img
                   alt=""
-                  src="/logo.png"
+                  src="/Yoga-Landing/logo.png"
                   className="h-10 w-auto"
                 />
               </a>

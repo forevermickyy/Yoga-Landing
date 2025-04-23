@@ -29,7 +29,7 @@ export default function Testimonial() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 2 }} className="relative flex flex-col items-center p-6 rounded-lg">
               <img
-                src="/a.jpg"
+                src="/Yoga-Landing/a.jpg"
                 alt="Testimonial 1"
                 className="w-full h-60 object-cover rounded-lg transition-transform transform group-hover:scale-105"
               />
@@ -49,7 +49,7 @@ export default function Testimonial() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 4 }} className="relative flex flex-col items-center p-6 rounded-lg transform -translate-y-10">
               <img
-                src="/b.jpg"
+                src="/Yoga-Landing/b.jpg"
                 alt="Testimonial 2"
                 className="w-full h-60 object-cover rounded-lg transition-transform transform group-hover:scale-105"
               />
@@ -69,7 +69,7 @@ export default function Testimonial() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 2 }} className="relative flex flex-col items-center p-6 rounded-lg">
               <img
-                src="/c.jpg"
+                src="/Yoga-Landing/c.jpg"
                 alt="Testimonial 3"
                 className="w-full h-60 object-cover rounded-lg transition-transform transform group-hover:scale-105"
               />
